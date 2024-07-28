@@ -26,5 +26,4 @@ Usage
 	4.	View Results: The program will display the converted temperatures in the other two scales.
 	5.	Repeat or Exit: Choose whether to perform another conversion or exit the program.
 
- <img width="454" alt="Screenshot 2024-07-28 at 9 32 04 PM" src="https://github.com/user-attachments/assets/201bdb33-51f1-43
-
+ 
